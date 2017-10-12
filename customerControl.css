@@ -1,15 +1,10 @@
 
 #selectcolor {
-
   font-family: copperplate;
   width: 100%;
-
 }
 
-.crimson { background-color:crimson;
-
-
-}
+.crimson { background-color:crimson;}
 .lime { background-color:lime;}
 .rebeccapurple { background-color:rebeccapurple;}
 .yellow { background-color:yellow;}
